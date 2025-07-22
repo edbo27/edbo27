@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eddie Boakye
 - 👀 I’m learning Cybersecurity
-- I'm also learning SQL
+-  I'm also learning SQL
 - 🌱 I’m currently learning the course of Cybersecurity and achieved a Certificate from Google
 - 💞️ I’m looking to collaborate on with Google 
 - 📫 How to reach me edbo81@gmail.com or www.linkedin.com/in/eddieboakye
